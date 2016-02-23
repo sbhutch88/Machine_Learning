@@ -1,0 +1,3 @@
+This file is the first model I created and submitted to the SF kaggle competition. I'm not posting the kaggle data because, I'm not sure if I'm allowed to post this data in a public github repository. This data can be downloaded at: https://www.kaggle.com/c/sf-crime/data. Once loaded this model should run and create a kaggle output. 
+
+*2/23/16 - This was the first model I created last week. It did pretty well but has plenty of room for improvement.
